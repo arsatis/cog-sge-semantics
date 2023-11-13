@@ -1,4 +1,4 @@
-# [Semantic similarity in Singapore English](https://arsatis.github.io/about/)
+# Semantic similarity in Singapore English
 
 This repository contains scripts and datasets used in the study with the name above.
 
